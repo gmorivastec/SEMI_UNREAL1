@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "SEMESTREI_1Editor Editor Win64 Development (SEMESTREI_1)",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\.vscode\\compileCommands_SEMESTREI_1.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        },
+        {
+            "name": "Win32",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\.vscode\\compileCommands_Default.json",
+            "cStandard": "c17",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,37 @@
+[
+	{
+		"file": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\Source\\SEMESTREI_1\\SEMESTREI_1.Build.cs",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\.vscode\\compileCommands_Default\\SEMESTREI_1.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\Source\\SEMESTREI_1\\SEMESTREI_1.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\.vscode\\compileCommands_Default\\SEMESTREI_1.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\Source\\SEMESTREI_1\\SEMESTREI_1.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\.vscode\\compileCommands_Default\\SEMESTREI_1.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\Source\\SEMESTREI_1\\SEMESTREI_1Character.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\.vscode\\compileCommands_Default\\SEMESTREI_1.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\Source\\SEMESTREI_1\\SEMESTREI_1Character.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\.vscode\\compileCommands_Default\\SEMESTREI_1.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\Source\\SEMESTREI_1\\SEMESTREI_1GameMode.cpp",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\.vscode\\compileCommands_Default\\SEMESTREI_1.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\Source\\SEMESTREI_1\\SEMESTREI_1GameMode.h",
+		"command": "\"C:\\Program Files (x86)\\Microsoft Visual Studio\\2019\\Community\\VC\\Tools\\MSVC\\14.29.30133\\bin\\HostX64\\x64\\cl.exe\" @\"C:\\Users\\Guillermo\\Documents\\Unreal Projects\\SEMESTREI_1\\.vscode\\compileCommands_Default\\SEMESTREI_1.211.rsp\"",
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.0\\Engine\\Source"
+	}
+]
